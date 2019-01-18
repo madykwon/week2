@@ -1,0 +1,18 @@
+body{
+	background: #88a0c1;
+	color: #efefde;
+	size: 150%;
+	margin: 5%;
+}
+
+a:focus{
+	border:1px solid;
+}
+
+p{
+	font-family: Arial;
+}
+
+nav ul {
+    color: white;
+}
